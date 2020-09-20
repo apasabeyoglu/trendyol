@@ -1,6 +1,6 @@
 # Trendyol Case Study
 
-> Go application for Trendyol case study
+> Go application for Trendyol case study. I've tried to keep everything simple. I haven't use any foldering such as 'model' etc. because of the simplicity.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/apasabeyoglu/getir`
+- Clone this repo to your local machine using `https://github.com/apasabeyoglu/trendyol`
 
 ## Rules
 
