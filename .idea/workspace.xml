@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ba887c2-fa23-4324-aba2-98a766586c75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="723" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1hgwj48e9LBJNGDes2Gol4BP88G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/model" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="cart_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="trendyol" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="trendyol" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/cart_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.cart_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600623422720">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="744" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1600623422720" />
+    <state x="971" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600615003107">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="971" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1600615003107" />
+    <state width="2518" height="381" key="GridCell.Tab.0.bottom" timestamp="1600623448861">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="381" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1600623448861" />
+    <state width="2518" height="381" key="GridCell.Tab.0.center" timestamp="1600623448860">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="381" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1600623448860" />
+    <state width="2518" height="381" key="GridCell.Tab.0.left" timestamp="1600623448859">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="381" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1600623448859" />
+    <state width="2518" height="381" key="GridCell.Tab.0.right" timestamp="1600623448860">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="381" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1600623448860" />
+    <state width="2518" height="468" key="GridCell.Tab.1.bottom" timestamp="1600607612556">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="468" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1600607612556" />
+    <state width="2518" height="468" key="GridCell.Tab.1.center" timestamp="1600607612556">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="468" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1600607612556" />
+    <state width="2518" height="468" key="GridCell.Tab.1.left" timestamp="1600607612555">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="468" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1600607612555" />
+    <state width="2518" height="468" key="GridCell.Tab.1.right" timestamp="1600607612556">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2518" height="468" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1600607612556" />
+    <state x="946" y="448" width="667" height="486" key="find.popup" timestamp="1600526298564">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="946" y="448" width="667" height="486" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1600526298564" />
+    <state x="945" y="328" width="670" height="676" key="search.everywhere.popup" timestamp="1600460331511">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="945" y="328" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1600460331511" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/trendyol$cart_test_go__1_.out" NAME="cart_test.go (1) Coverage Results" MODIFIED="1600623366887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/trendyol$cart_test_go.out" NAME="cart_test.go Coverage Results" MODIFIED="1600623448803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
